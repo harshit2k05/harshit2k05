@@ -1,16 +1,13 @@
-## Hi there 👋
+## 👨‍💻 About Me
 
-<!--
-**harshit2k05/harshit2k05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm **Harshit Joshi**.
 
-Here are some ideas to get you started:
+🎓 I'm currently pursuing a **Bachelor of Computer Applications (BCA) with AI/ML**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I am currently learning:
+
+* 🤖 AI & Machine Learning
+* 🌐 Full Stack Web Development
+* 💻 Data Structures & Algorithms (DSA)
+
+🚀 I enjoy building projects, improving my coding skills, and sharing my learning journey through GitHub. I'm passionate about building intelligent applications and modern web solutions while continuously growing as a developer.
